@@ -1,0 +1,13 @@
+// subscribers
+export const ADD_SUBSCRIBER = "ADD_SUBSCRIBER";
+export const REMOVE_SUBSCRIBER = "REMOVE_SUBSCRIBER";
+
+// views
+export const ADD_VIEW = "ADD_VIEW";
+export const SET_VIEW = "SET_VIEW";
+
+// comments
+export const FETCH_COMMENTS = "FETCH_COMMENTS";
+export const FETCH_COMMENTS_REQUEST = "FETCH_COMMENTS_REQUEST";
+export const FETCH_COMMENTS_SUCCESS = "FETCH_COMMENTS_SUCCESS";
+export const FETCH_COMMENTS_FAILURE = "FETCH_COMMENTS_FAILURE";
