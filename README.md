@@ -71,3 +71,15 @@ function App () {
 ## redux 단점
 
 - reducer 같은 코드를 계속해서 작성하게 된다.
+
+- [easyweb](https://www.youtube.com/watch?v=7E7aIDGL5Kc&list=PL-qMANrofLyuMzgr4sNJdqWfabJP5vvrw&index=5)
+
+- [netfl](https://www.youtube.com/watch?v=DStFGe6Hd2c)
+
+- [reducer](https://www.youtube.com/watch?v=tdORpiegLg0)
+
+- [deved](https://www.youtube.com/watch?v=CVpUuw9XSjY)
+- [florin](https://www.youtube.com/watch?v=Ari-W0aAF_E)
+- [florin2](https://www.youtube.com/watch?v=ox5Jwcl6Yn8)
+- [john](https://www.youtube.com/watch?v=bbkBuqC1rU4)
+- [freecode](https://www.youtube.com/watch?v=zrs7u6bdbUw)

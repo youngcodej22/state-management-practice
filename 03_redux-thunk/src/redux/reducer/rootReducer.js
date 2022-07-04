@@ -1,4 +1,3 @@
-import store from "../store/store";
 import { combineReducers } from "redux";
 import subscriberReducer from "./subscribers/reducer";
 import viewsReducer from "./views/reducer";
@@ -7,7 +6,7 @@ import { persistReducer } from "redux-persist";
 import storage from "redux-persist/lib/storage"; // defaults to localStorage for web
 
 const persistConfig = {
-  key: 'root',
+  key: "root",
   // key: "views",
   storage,
   // whitelist: ["views"],

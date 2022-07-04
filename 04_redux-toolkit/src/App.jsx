@@ -6,7 +6,7 @@ import Fetch from "./components/Fetch";
 function App() {
   return (
     <div className="App">
-      <h1>Redux and thunk</h1>
+      <h1>Redux Toolkit</h1>
       <Parent />
       <Other />
       <Fetch />

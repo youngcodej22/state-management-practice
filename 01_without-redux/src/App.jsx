@@ -7,6 +7,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>Without Redux</h1>
       <Parent />
       <Fetch loading={loading} />
       <button

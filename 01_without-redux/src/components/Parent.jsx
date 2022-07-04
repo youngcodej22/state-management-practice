@@ -5,6 +5,7 @@ const Parent = () => {
   const [count, setCount] = useState(1);
 
   const handleClickAdd = (e) => {
+    // setCount((prevState) => prevState + 1);
     setCount(count + 1);
   };
 

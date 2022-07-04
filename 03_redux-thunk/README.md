@@ -18,6 +18,7 @@ Redux / React-Redux / Redux thunk / Redux Logger 사용
 - [boilerplate-2](https://github.com/vannizhang/react-redux-boilerplate/blob/master/src/store/getPreloadedState.ts)
 - [toolkit](https://www.youtube.com/watch?v=PmFVQmSSaE4)
 - [naver](https://www.youtube.com/watch?v=ZQ6nrKRju84)
-- [생코](https://www.youtube.com/watch?v=Cwwsv_OaWhM)
+- [생활코딩: 리덕스 앱](https://www.youtube.com/watch?v=Cwwsv_OaWhM)
+- [생활코딩: 리덕스 개념](https://www.youtube.com/watch?v=F_NLNBOqZrQ&list=PLuHgQVnccGMB-iGMgONoRPArZfjRuRNVc&index=4)
 - [redux-dev-tool](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?utm_source=chrome-ntp-icon)
 - [redux-dev-tool-github](https://github.com/reduxjs/redux-devtools)

@@ -19,7 +19,6 @@ const Fetch = ({ loading }) => {
         );
 
         if (response.ok) {
-          console.log("실행");
           // setLoading(true);
           const datas = await response.json();
           setCommentList(datas);
